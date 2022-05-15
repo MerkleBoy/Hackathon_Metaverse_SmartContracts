@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "ethers": "^5.6.6",
+    "hardhat": "^2.9.5"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-truffle4": "^2.0.5",
+    "@nomiclabs/hardhat-web3-legacy": "^2.0.0",
+    "web3": "^0.20.7"
+  }
+}
